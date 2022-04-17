@@ -1,6 +1,6 @@
 # 2022_DS_tweet_hakathon
 
-## COmpetition Webpage
+## Competition Webpage Link
 https://dphi.tech/challenges/tweet-classification/199/overview/about 
 
 ### Organizer
