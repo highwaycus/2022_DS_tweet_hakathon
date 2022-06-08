@@ -3,7 +3,7 @@
 ## Competition 
 Webpage Link: https://dphi.tech/challenges/tweet-classification/199/overview/about 
 
-### Organizer
+### Organizer 
 This challenge is organized by the Data Science Club at Indiana University(DSC@IU). 
 
 ### Data
