@@ -13,3 +13,6 @@ B) 500 tweets that were labeled antisemitic/ not antisemitic by a group of stude
 
 ### Total Time:
 48 hours
+
+### Results:
+Score: 63.5572
