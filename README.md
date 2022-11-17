@@ -15,4 +15,4 @@ B) 500 tweets that were labeled antisemitic/ not antisemitic by a group of stude
 48 hours
 
 ### Results:
-Score: 63.5572
+Score: 63.5572 
