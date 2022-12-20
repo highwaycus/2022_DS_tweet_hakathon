@@ -1,7 +1,7 @@
 # 2022_DS_tweet_hakathon
 
 ## Competition 
-Webpage Link: https://dphi.tech/challenges/tweet-classification/199/overview/about 
+Event Webpage Link: https://dphi.tech/challenges/tweet-classification/199/overview/about 
 
 ### Organizer 
 This challenge is organized by the Data Science Club at Indiana University(DSC@IU). 
