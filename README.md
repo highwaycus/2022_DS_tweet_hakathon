@@ -1,18 +1,25 @@
-# 2022_DS_tweet_hakathon
+# Antisemitic Tweet Classification Hackathon
 
-## Competition 
-Event Webpage Link: https://dphi.tech/challenges/tweet-classification/199/overview/about 
+This project was created for a 48-hour tweet-classification hackathon organized by the Data Science Club at Indiana University. The task was to classify antisemitic tweets from expert- and student-labeled datasets, and the final submission scored 63.5572.
 
-### Organizer 
-This challenge is organized by the Data Science Club at Indiana University(DSC@IU). 
+## Goal
 
-### Data
-A) A labeled verified dataset (“Gold Standard”) of about 4,000 tweets. These tweets have been labeled antisemitic/ not antisemitic by expert annotators who went over the same tweets and discussed any disagreements. Tweets were taken out of the dataset if no agreement was found. The tweets in the dataset are from January 2019 to April 2021. The were scraped with one of the four keywords “Jews,” “Israel,” “kikes,” or “ZionNazi*.”
+Build a binary tweet classifier within the 48-hour limit while accounting for the difference between expert-consensus labels and student labels.
 
-B) 500 tweets that were labeled antisemitic/ not antisemitic by a group of students (“lay annoytators”). The tweets in this dataset are from January to April 2021 and were scraped with the keyword “Jews.” The same tweets were also classified by the expert annotators and are part of the Gold Standard.
+## Competition
 
-### Total Time:
-48 hours
+[Challenge overview](https://dphi.tech/challenges/tweet-classification/199/overview/about)
 
-### Results:
-Score: 63.5572 
+## Data
+
+The challenge provided two datasets:
+
+- **Gold Standard:** about 4,000 tweets labeled by expert annotators. Tweets without agreement were removed. The data covers January 2019 through April 2021.
+- **Student-labeled set:** 500 tweets labeled by student annotators. These tweets were also classified by the experts and appear in the Gold Standard.
+
+## Result
+
+| Item | Result |
+|---|---|
+| Time available | 48 hours |
+| Final score | 63.5572 |
